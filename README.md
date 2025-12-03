@@ -1,5 +1,5 @@
 # Sistema de Tarefas – Trabalho de LP4
-# Rafaela Ferreira Dos Santos - CP3026353
+Rafaela Ferreira Dos Santos - CP3026353
 
 
 Aplicação para gerenciamento de tarefas com usuários e categorias.  
